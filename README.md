@@ -1,8 +1,10 @@
 <p align="center">
-<h1 align=center>🍣 EmojiVisualiser</h1>
+<h1 align="center">🍣 EmojiVisualiser</h1>
 
-[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+<p align="center">
+ <img src="https://img.shields.io/badge/code_style-standard-brightgreen.svg"> 
+ <img src="https://img.shields.io/badge/License-MIT-yellow.svg"> 
+ </p>
 
 --- 
 
