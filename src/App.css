@@ -1,0 +1,23 @@
+html, body, #root {
+  width: 100%;
+  height: 100%;
+}
+
+.light-theme {
+  --background: #b5a993;
+  --background-lighter: #e6d5b6;
+  --background-darker: #887f6d;
+}
+
+.dark-theme {
+  --background: #032234;
+  --background-lighter: #04334e;
+  --background-darker: #010e16;
+}
+
+.AppCore {
+  width: 100%;
+  height: 100%;
+  background: var(--background);
+  transition: background 0.5s ease-in-out;
+}

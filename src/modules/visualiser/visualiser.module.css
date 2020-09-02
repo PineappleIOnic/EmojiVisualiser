@@ -1,0 +1,33 @@
+.visualiserCore, .visualiserRender {
+    width: 100%;
+    height: 100%;
+}
+
+.visualiserRender {
+    user-select: none;
+}
+
+.emojiBar {
+    position: absolute; 
+    bottom: 0;
+    font-size: 24px;
+}
+
+.returnButton {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    z-index: 3;
+    text-align: center;
+}
+
+.returnButton::after {
+    content: '✖';
+    color: rgb(212, 212, 212);
+    font-size: 30px;
+    line-height: 60px;
+    text-align: center;
+}
