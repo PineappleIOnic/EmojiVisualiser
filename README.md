@@ -15,3 +15,4 @@ I would urge you to not and help another open-source project that wasn't built a
 ## Getting Started
 Start by cloning or forking the repository and running:
 `yarn install` to install dependencies and `yarn start` to start the development server with live-reload on changes.
+</p>
