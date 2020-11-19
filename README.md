@@ -17,6 +17,7 @@ EmojiVisualiser is a Audio Visualiser with emojis! It's built with React and use
 I would urge you to not and help another open-source project that wasn't built as a joke but if you want to we accept PRs, Issues and Feature Requests from anyone! :)
 
 <h2 align=center>Getting Started</h1>
+
 Start by cloning or forking the repository and running:
-`yarn install` to install dependencies and `yarn start` to start the development server with live-reload on changes.
+```yarn install``` to install dependencies and ```yarn start```to start the development server with live-reload on changes.
 </p>
